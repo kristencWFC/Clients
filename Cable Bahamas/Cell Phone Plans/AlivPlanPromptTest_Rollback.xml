@@ -1,0 +1,203 @@
+<plans>
+	<plan name="freedom (7 day)">
+		<order>1</order>
+		<prompt>Aliv/p7064.wav</prompt>
+	</plan>
+	<plan name="liberty (30 day)">
+		<prompt>Aliv/p7065.wav</prompt>
+		<order>2</order>
+	</plan>
+	<plan name="liberty global">
+		<prompt>Aliv/p7066.wav</prompt>
+		<order>4</order>
+	</plan>
+	<plan name="mifi (30 day)">
+		<prompt>Aliv/p7067.wav</prompt>
+		<order>3</order>
+	</plan>
+	<plan name="roaming">
+		<prompt>Aliv/p7068.wav</prompt>
+		<order>6</order>
+	</plan>
+	<plan name="freedom data1">
+		<prompt>Aliv/p7069.wav</prompt>
+	</plan>
+	<plan name="freedom data10">
+		<prompt>Aliv/p7070.wav</prompt>
+	</plan>
+	<plan name="freedom data2">
+		<prompt>Aliv/p7071.wav</prompt>
+	</plan>
+	<plan name="freedom data3">
+		<prompt>Aliv/p7072.wav</prompt>
+	</plan>
+	<plan name="freedom talk100">
+		<prompt>Aliv/p7073.wav</prompt>
+	</plan>
+	<plan name="freedom text100">
+		<prompt>Aliv/p7074.wav</prompt>
+	</plan>	
+	<plan name="freedom12">
+		<prompt>Aliv/p7075.wav</prompt>
+	</plan>
+	<plan name="freedom35">
+		<prompt>Aliv/p7076.wav</prompt>
+	</plan>
+	<plan name="freedom35 data1">
+		<prompt>Aliv/p7077.wav</prompt>
+	</plan>
+	<plan name="freedom35 data10">
+		<prompt>Aliv/p7078.wav</prompt>
+	</plan>
+	<plan name="freedom35 data2">
+		<prompt>Aliv/p7079.wav</prompt>
+	</plan>
+	<plan name="freedom35 data3">
+		<prompt>Aliv/p7080.wav</prompt>
+	</plan>
+	<plan name="freedom4 1-day">
+		<prompt>Aliv/p7081.wav</prompt>
+	</plan>
+	<plan name="freedom6">
+		<prompt>Aliv/p7082.wav</prompt>
+	</plan>
+	<plan name="liberty data1">
+		<prompt>Aliv/p7083.wav</prompt>
+	</plan>	
+	<plan name="liberty data10">
+		<prompt>Aliv/p7084.wav</prompt>
+	</plan>
+	<plan name="liberty data2">
+		<prompt>Aliv/p7085.wav</prompt>
+	</plan>
+	<plan name="liberty data3">
+		<prompt>Aliv/p7086.wav</prompt>
+	</plan>
+	<plan name="liberty global Caribbean">
+		<prompt>Aliv/p7087.wav</prompt>
+	</plan>
+	<plan name="liberty global China">
+		<prompt>Aliv/p7088.wav</prompt>
+	</plan>
+	<plan name="liberty global Europe">
+		<prompt>Aliv/p7089.wav</prompt>
+	</plan>
+	<plan name="liberty global Haiti">
+		<prompt>Aliv/p7090.wav</prompt>
+	</plan>
+	<plan name="liberty talk100">
+		<prompt>Aliv/p7091.wav</prompt>
+	</plan>
+	<plan name="liberty text100">
+		<prompt>Aliv/p7092.wav</prompt>
+	</plan>	
+	<plan name="liberty140">
+		<prompt>Aliv/p7093.wav</prompt>
+	</plan>
+	<plan name="liberty140 data1">
+		<prompt>Aliv/p7094.wav</prompt>
+	</plan>
+	<plan name="liberty140 data10">
+		<prompt>Aliv/p7095.wav</prompt>
+	</plan>
+	<plan name="liberty140 data2">
+		<prompt>Aliv/p7096.wav</prompt>
+	</plan>
+	<plan name="liberty140 data3">
+		<prompt>Aliv/p7097.wav</prompt>
+	</plan>
+	<plan name="liberty30">
+		<prompt>Aliv/p7098.wav</prompt>
+	</plan>
+	<plan name="liberty45">
+		<prompt>Aliv/p7099.wav</prompt>
+	</plan>
+	<plan name="liberty60">
+		<prompt>Aliv/p7100.wav</prompt>
+	</plan>
+	<plan name="liberty90">
+		<prompt>Aliv/p7101.wav</prompt>
+	</plan>	
+	<plan name="mifi140">
+		<prompt>Aliv/p7102.wav</prompt>
+	</plan>	
+	<plan name="mifi75">
+		<prompt>Aliv/p7103.wav</prompt>
+	</plan>	
+	<plan name="mifi90">
+		<prompt>Aliv/p7104.wav</prompt>
+	</plan>
+	<plan name="roam20 7-day">
+		<prompt>Aliv/p7105.wav</prompt>
+	</plan>	
+	<plan name="roam30 7-day">
+		<prompt>Aliv/p7106.wav</prompt>
+	</plan>	
+	<plan name="roam50 14-day">
+		<prompt>Aliv/p7107.wav</prompt>
+	</plan>	
+	<plan name="tourist10">
+		<prompt>Aliv/p7108.wav</prompt>
+	</plan>	
+	<plan name="add-ons">
+		<prompt>Aliv/p7063.wav</prompt>
+		<order>5</order>
+	</plan>		
+	<plan name="travel20 7-day">
+		<prompt>Aliv/p7115.wav</prompt>
+	</plan>	
+	<plan name="travel30 7-day">
+		<prompt>Aliv/p7116.wav</prompt>
+	</plan>	
+	<plan name="travel50 14day">
+		<prompt>Aliv/p7117.wav</prompt>
+	</plan>	
+	<plan name="liberty45 bundle">
+		<prompt>Aliv/liberty45bundle.wav</prompt>
+	</plan>	
+	<plan name="liberty90 for $76">
+		<prompt>Aliv/liberty90christmas.wav</prompt>
+	</plan>	
+	<plan name="liberty140 for $115">
+		<prompt>Aliv/liberty140christmas.wav</prompt>
+	</plan>	
+	<plan name="liberty (30 day) discounts">
+		<prompt>Aliv/liberty30daydiscounts.wav</prompt>
+	</plan>	
+	<plan name="roam travel">
+		<prompt>Aliv/pRoamTravel.wav</prompt>
+		<order>7</order>
+	</plan>
+	<plan name="roam easy Caribbean">
+		<prompt>Aliv/pRoameasyCaribbean.wav</prompt>
+	</plan>
+	<plan name="freedom tour Carib">
+		<prompt>Aliv/FreedomTourCarib.wav</prompt>
+	</plan>
+	<plan name="freedom tour US">
+		<prompt>Aliv/FreedomTourUS.wav</prompt>
+	</plan>
+	<plan name="freedom tour unlimited">
+		<prompt>Aliv/FreedomTourUnlimited.wav</prompt>
+	</plan>
+	<plan name="freedom tour (7 day)">
+		<prompt>Aliv/FreedomTour.wav</prompt>
+		<order>8</order>
+	</plan>
+	<plan name="Freedom Tour">
+		<prompt>Aliv/FreedomTour.wav</prompt>
+		<order>9</order>
+	</plan>
+	<plan name="Carifta14">
+		<prompt>Aliv/Carifta14.wav</prompt>
+	</plan>
+	<plan name="roameasy liberty">
+		<prompt>Aliv/pRoamEasyLiberty.wav</prompt>
+	</plan>
+	<plan name="roameasy caribbean">
+		<prompt>Aliv/RoamEasyCarribean.wav</prompt>
+	</plan>
+	<plan name="roameasy usa &amp; can">
+		<prompt>Aliv/RoamEasyUSACAN.wav</prompt>
+	</plan>	
+</plans>
