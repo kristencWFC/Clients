@@ -1,0 +1,82 @@
+-390 agents 
+-111 supervisors 
+15-20 teams
+
+Lift and Shift:
+	Google TTS to replace Nuance
+	Two languages Eng/Spa
+	Courtesy Callback
+	Reporting 
+	Dashboards 
+	Are there any screenpops in use currently?
+	Any DB lookups? Mentioned in sales calls a script that reads order info to caller. Is this Service Now?
+	
+
+Future Possible Phase:
+	Custom Wallboard - Rashaan mentioned a wallboard in use today by one team
+	Dialogflow (speech enabled IVR)?
+	Replace Twilio with Connect SMS?
+	Customer Care and Internet Sales - omniChannel - Chat via Connect?
+	Outbound Dialer Campaigns
+	
+*Calabrio - separate from Contact Center in Calabrio One - RTG will pull in Calabrio
+
+Notes:
+
+Questions:
+Moving forward, will stores be handled in Webex Calling - auto attendant menus or routing to CX?
+Timeline - Training Oct - 20-25 per group, go live early Nov
+Change freeze - week of Thanksgiving plus a few days after. Again around Christmas.
+Infra - time available first 3 weeks Dec
+CustCare - busy time post holidays
+Contact Center - target early Nov
+
+Discovery -
+Review current design
+Review custom reports - Darlene
+Review contact center volume - WFC
+
+
+
+
+Darlene Notes:
+	about 10 queues per system
+	CS - about 9
+	Help Desk/Sales - 10
+	
+	ACD Eng
+	ACD Spa
+	ACD Kids
+	Callback
+	ICCB Outdoor
+	Product Help
+	Furniture.com on internet sales side
+	Store Rep queue - agents that handle store calls
+	Two Service queues - Dispatch/Tech 
+	ESC Group/Warranty
+	
+	Multiple skills per replace
+	
+	350 agents in CustServ - named users
+	175 - 200 max login per day
+	15-20 teams
+
+	Reports - they run multiple reports and export to create custom reports
+		two reps create these reports
+		
+		Sales has their separate set of reports
+		
+		90 second wrap
+	
+
+
+
+
+Discovery:
+	Reporting - Darlene - what are the key reporting variables we need to capture?
+	Max queue time - what behavior following max or are callers allowed to hold all day?
+	Teams 15-20
+	*Callback needs to be reporting variable so that we know how many dequeued
+	
+	
+
