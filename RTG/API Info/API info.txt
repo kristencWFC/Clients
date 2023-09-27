@@ -1,0 +1,21 @@
+Key Service Now
+
+
+1. Get Ticket Info
+https://roomstogo.service-now.com/api/now/table/incident?number=INC0502407
+In response, get sys_id value
+
+2. https://roomstogo.service-now.com/api/now/v1/table/incident/78c89ab71bb4fd908c54eac3b24bcb81?sysparm_limit=10&sysparm_display_value=true
+Get Comments by entering the sys_id found in step 1 (78c89....)
+In comments_and_work_notes returned in the response will be:
+"comments_and_work_notes": "2023-09-22 11:07 - UCCX Integration (Work notes)\nINC0502407 TEST NOTE Customer called in, no agents were logged in, transferred to Agent voicemail\n\n2023-09-22 08:17 - UCCX Integration (Work notes)\nINC0502407 Customer called in, no agents were logged in, transferred to Agent voicemail\n\n2023-08-28 14:48 - UCCX Integration (Work notes)\nINC0502407 Customer called in, Transferred directly to Agent\n\n",
+
+3. Easier - get work notes
+https://roomstogo.service-now.com/api/now/v1/table/incident?&sysparm_fields=comments_and_work_notes&sysparm_query=number=INC0502407&sysparm_display_value=true
+
+4. Get Agent ID and Email assigned
+https://roomstogo.service-now.com/api/now/v1/table/incident?&sysparm_fields=assigned_to.user_name, assigned_to.email&sysparm_query=number=INC0502407
+
+
+Deliver and Service System
+https://rtg-apim-prod.azure-api.net/ivrapi/api/IVR?Mode=IVR&PhoneorOrderNum=123456
