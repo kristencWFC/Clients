@@ -1,0 +1,47 @@
+Number,Description,Info,Cutover Action Item
+8666,AM_CUST_SVC_EN,NEW AA - Agents will need to transfer to this AA ,Can this be moved to WxC now and create CUCM rule to route to WxC trunk?
+8667,AM_CUST_SVC_SP,NEW AA - Agents will need to transfer to this AA ,Can this be moved to WxC now and create CUCM rule to route to WxC trunk?
+8650,AM_FL_SVC_EN,NEW AA - Agents will need to transfer to this AA ,Can this be moved to WxC now and create CUCM rule to route to WxC trunk?
+8651,AM_FL_SVC_SP,NEW AA - Agents will need to transfer to this AA ,Can this be moved to WxC now and create CUCM rule to route to WxC trunk?
+8652,AM_SE_SVC_EN,NEW AA - Agents will need to transfer to this AA ,Can this be moved to WxC now and create CUCM rule to route to WxC trunk?
+8653,AM_SE_SVC_SP,NEW AA - Agents will need to transfer to this AA ,Can this be moved to WxC now and create CUCM rule to route to WxC trunk?
+8656,AM_SRVY_EN,NEW AA - Agents will need to transfer to this AA ,Can this be moved to WxC now and create CUCM rule to route to WxC trunk?
+8657,AM_SRVY_SP,NEW AA - Agents will need to transfer to this AA ,Can this be moved to WxC now and create CUCM rule to route to WxC trunk?
+8643,CS IS IVR (EC SALES),CUCM SIDE WILL NEED TO DIAL THIS AND POINT TO EC_SALES IVR DID 8444879434,Update WxCC Address Books to 10 Digits & Create translation on CUCM 4 digits to point to 10 digit DID?
+8640,CS Main IVR, UPDATED ADDRESS BOOK TO 8007666786 EC_SALES FLOW POINTS HERE *UPDATE TO POINT TO FLOW,
+8640,CS Main IVR,PEARLRIVER AND ARLING AA *UPDATE TO 10 DIGIT CS_MAIN_IVR,
+8673,CS_IS_VRF,SHOULD ROUTE TO NEW VRF FLOW - ASSIGN 10 DIGIT TO VRF FLOW - DOESN'T CURRENTLY EXIST,
+8665,CS_MAIN_IVR_SP,UPDATED ADDRESS BOOK TO 8007666786,
+16152431491,External Transfer,,
+18004991965,External Transfer,,
+18005457125,External Transfer,,
+18008216621,External Transfer,,
+18008883078,External Transfer,,
+18009738374,External Transfer,,
+18329044960,External Transfer,,
+18666640968,External Transfer,,
+18772487707,External Transfer,,
+18776802620,External Transfer,,
+18885503746,External Transfer,,
+18886722411,External Transfer,,
+18888358740,External Transfer,,
+8669,FURN COM IVR,ADDRESS BOOK SHOULD POINT TO FURN_COM OR 10 DIGIT 8552770614,
+3145,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+3248,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+3602,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+3736,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+3959,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+5621,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+5728,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+5995,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+6343,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+6939,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+7002,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+7051,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+7349,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+7527,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+8804,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+26767,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+26768,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+27649,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
+83577,Line on Phone,Agents will need ability to transfer to this CUCM line until it is moved,
